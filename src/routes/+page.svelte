@@ -1,2 +1,21 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    import * as config from "$lib/config";
+
+    export let data;
+</script>
+
+<svelte:head>
+    <title>{config.title}</title>
+</svelte:head>
+
+<section>
+    <ul class="posts flex justify-center gap-4 h-[100vh]">
+        {#each data.posts as post }
+        <li class="post w-[20vw] text-lg border h-[40vh]">
+            <a href={post.slug} class="title">{post.title}</a>
+            <p class="date">{post.date}</p>
+            <p class="description">{post.description}</p>
+        </li>
+        {/each}
+    </ul>
+</section>
