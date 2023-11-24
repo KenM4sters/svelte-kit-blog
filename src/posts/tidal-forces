@@ -1,0 +1,160 @@
+---
+title: Is The Moon Really Moving Further Away - If So, Why?
+description: In this article, we'll take a look at an interesting mechanism that's found all throughout the universe, from celestial moons to black holes. 
+date: 2023-1-01
+categories:
+    - Miscellaneous
+published: true
+---
+
+
+You may have read online somewhere or been told that the Moon is gradually moving further away from the Earth, and naturally you wonder whether that's actually true or not.... 
+
+After all, the internet can be a very unreliable place.
+
+So, is the Moon moving further away? 
+
+As you can probably guess from the title, the moon is in fact moving further away (and it's as factual as anything can get!)
+
+But don't just take my word for it.
+
+In this article, we'll discuss the ins-and-outs of why and how the Moon is moving further away.
+
+The good stuff
+
+I say the Moon is moving further away, but it's not like in a few years it will have escaped the Earth's gravitational control -  it's moving away by about 4cm every year, and considering that it's over 400,000 km away, 4cm is extremely minimal. 
+
+Short answer: 
+
+Interactions between the Earth and the Moon mean that the Moon tugs back at the Earth, slowing its rotation down, but conservation of momentum means that the Moon must speed up as a result, and the increase in velocity pushes its orbit further out from Earth. 
+
+Sorry, but that's about as short as I'm willing to go! 
+
+The long(er) answer? 
+
+Let's talk about it.
+
+concepts to understand here:
+
+* Tidal forces and;
+* Conservation of momentum 
+Starting with tidal forces, they're essential the force that both the Earth and the Moon feel due to the other one's gravity. 
+
+I have a dedicated article that goes into depth on tidal forces (it also explains why we have the tides here on Earth), so feel free to check that out here, but I'll also give an explanation of it below, albeit a more brief one. 
+
+Looking at the Moon's tidal force on the Earth first, we can say that because the side of the Earth that's closest to the Moon experiences a larger gravitational "force" than the side that's not, it feels more of an acceleration towards the Moon which causes the Earth to "bulge" slightly at the equator, and the same effect is happening to the Moon because of the Earth.
+
+This results in the oceans being tugged to the side that's closest to the Moon, which naturally changes as both the Earth rotates and the Moon continues to orbit around the Earth.  
+
+The difference between the two, however, is what dictates whether the Moon gets pulled towards the Earth or pushed away. 
+
+If the Moon orbits slower than the Earth rotates (which it does), then the resulting bulge of the oceans will create a drag effect on the Earth's rotation, slowing it down. 
+
+Hopefully you can image the scenario in your head:
+
+The Moon tugs the Earth's oceans towards it, but since the Earth rotates faster than the Moon orbits, it tugs the oceans against the rotation of the Earth. This causes the frictional force of the oceans moving across the surface to slow the Earth's rotation down. 
+
+However, due to the conservation of momentum, the Earth can't simply rotate slower, and that's it - there's no other effect....
+
+Remember, energy cannot be created and cannot be destroyed, it can only be transferred between forms.  
+
+The Earth loses energy, specifically kinetic energy, when its rotational velocity decreases, but the lost energy must go somewhere - it cannot be destroyed. 
+
+In this case, it's transferred to the Moon. 
+
+Since the Moon now has more kinetic energy, and kinetic energy = 0.5*mass*velocity², its velocity must increase.
+
+The total potential energy of the Earth would involve the summation of both the Earth's energy due to its movement (kinetic energy) and its rest energy, given by Einstein's famous equation E = mc², and since the Earth is moving at speeds nowhere near the speed of light, we can ignore any relativistic changes in mass.
+
+Therefore, we can simply say that as a result of the Earth losing rotational velocity, the Moon must gain it, except because the Moon is tidally locked to the Earth (we'll talk more about that in a minute), its orbital velocity increases instead.
+
+This increase in velocity means that the Moon's orbit gets pushed further out from the Earth, as it has been accelerated outwards by stealing the Earth's rotational momentum.  
+
+Interestingly, as the Moon's momentum increases from stealing the Earth's rotational momentum, eventually, it will reach a point where its orbital velocity is exactly the same as that of the Earth's rotational velocity, and hence it will stay in a fixed position relative to the Earth. 
+
+This means that from one side of the Earth, you would never be able to observe the Moon, and from the other it would appear to be in the same place 100% of the time. 
+Not sure which side would have the moon and which wouldn't, but I'm sure someone out there has made a prediction! 
+
+The interesting part is that this is the exact scenario from the Moon's perspective - on one side, the Earth appears to be in the same place 100% of the time, and form the other it's not visible at all. But don't worry, we'll talk more about tidal forces from the Moon's perspective in a minute!
+
+Notice earlier how I said - "if the Moon orbits slower than the Earth rotates..."? 
+
+If the Moon were to orbit faster than the Earth rotates, then the opposite effect would happen - it would gradually move closer and the Earth would gradually rotate faster.  
+
+This would happen until the Moon becomes too close, to the point where the tidal force on the Moon would become so large that it would be stretched completely apart. 
+
+To briefly explain this, tidal force between two bodies increases exponentially the closer two bodies become to each other, but for a mathematical proof of that, I'd recommend check out the article mentioned below (or here).
+
+This exact scenario is expected to take place with one of Mars' moons, Phobos, which you can read more about here.
+
+Again though, you can click here if the concept of tidal forces is particularly interesting to you (it definitely is for me), and here especially if you want to know how the formula works, and where it is derived from (knowledge of differentiation is preferable).  
+
+Now, let's wrap up by addressing something I mentioned earlier about the Moon being "tidally locked" to the Earth...
+
+The phrase "tidally locked" simply means that, due to experiencing a tidal force, an object rotates at a certain velocity, such that from the view of the body that the object is orbiting around, it appears to not rotate at all.
+
+I know that might sound a bit confusing at first, but let's apply this concept to the Earth and Moon to get a bit more specific.
+
+As 'm sure you know, the Moon orbits around the Earth and not the other way around, quite simply because the Earth is about 81 times as massive as the Moon.
+
+You also might know that from Earth, we only ever see the same side of the Moon, but a lot of people mistakenly interpret from this that the Moon is not rotating at all...
+
+However, if the Moon didn't rotate whatsoever, then we would in fact see the different sides of the Moon as it orbits around the Earth, and hopefully you can image that pretty well in your head. 
+
+Because the Moon orbits around the Earth, in order for us to only ever see the same side of the Moon, then it must be rotating at a velocity that compensates for its orbital velocity.
+
+In other words, the angle made from orbiting in a (roughly) circular path around the Earth, must be accounted for by a slight rotation, in order for it seem fixed from our perspective, as it does. 
+
+But why would the Moon be rotating at such a precise velocity? 
+
+Surely that can't be a coincidence?
+
+Well, it's not.
+
+The process of tidal locking is definitely a natural one, and in fact most moons in our solar system are tidally locked to their planets - the Earth and Moon aren't alone in this relationship.
+
+The reason why tidal locking occurs is fairly straight-forward.
+
+Think back to how we covered why the Earth is gradually rotating slower because it's being tugged towards the Moon.
+
+This exact scenario would have been happening to the Moon as well.
+
+We established earlier that the Earth is gradually rotating slower because it's orbiting faster than the Moon can keep up with, so the bulging effect due to tidal forces creates a frictional force that acts against the rotation of the Earth.
+
+As I mentioned earlier, I don't think there's any "easy" way to visualise it in your head, but my best advice would be to imagine the Moon almost lagging behind the rotation of the Earth.
+
+The Moon is tugging at the Earth with some tidal force, and the direction of this tug is constantly chaining as the Moon orbits around the Earth. 
+
+However, the Earth rotates faster than the Moon orbits, so the frictional force of the tug acts against its rotation, causing it to slow down.
+
+At some point in time though, because the Earth is gradually rotating slower, it will reach a point where it rotates at a velocity such that it matches the Moon's orbital velocity, and the same side of the Earth always faces the Moon.
+
+Sound familiar?
+
+Well, that's exactly what happened perhaps billions of years ago except it was the Moon becoming tidally locked to the Earth, as opposed to the other way around. 
+
+The only reason why the Earth is rotating slower is BECAUSE it's rotating FASTER than the Moon orbits.
+
+As soon as it reaches a rotational velocity where it's NOT rotating faster than the Moon orbits, it will have no reason to slow down, and hence it will become fixed to the Moon. 
+
+The reason why this hasn't happened to the Earth yet, but has to the Moon, is because the Earth is far bigger and heavier.
+
+The exchange of energy due to tidal forces on the Moon (remember the conservation of energy/momentum principle from earlier) is much more than that due to the tidal force on the Earth.
+
+Put more simply, changing the Moon's rotation isn't anywhere near as energetic as changing the Earth's rotation. 
+
+And.... that's about it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

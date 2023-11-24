@@ -8,9 +8,9 @@
     <meta property="og:title" content={data.meta.title} />
 </svelte:head>
 
-<article>
+<article class="flex-col justify-center ml-[25%] mt-10 mb-10">
     <hgroup>
-        <h1>{data.meta.title}</h1>
+        <h1 class="font-semibold text-[2rem] pb-10">{data.meta.title}</h1>
         <p> Published at: {data.meta.date}</p>
     </hgroup>
     
@@ -20,7 +20,7 @@
         {/each}
     </div>
     
-    <div class="prose ">
+    <div class="prose prose-lg text-black">
         <svelte:component this={data.content} />
     </div>
 </article>

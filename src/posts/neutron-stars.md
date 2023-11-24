@@ -1,6 +1,6 @@
 ---
 title: Neutron Stars
-description: Everything about neutron stars that you need to know
+description: Neutron stars are some of the most violent objects in the observed universe, and in this short article, we'll look at why.
 date: 2023-1-01
 categories:
     - Astronomy

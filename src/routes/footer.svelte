@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-    <div class="h-[20vh] flex justify-center gap-10 border-t-2">
+    <div class="h-[30vh] flex justify-center gap-10 border-t-2 p-4">
         <div class="w-[20vw]">
             <h1> About: </h1>
             <p> Simplify is about sharing information about our universe, entirely free of cost</p>

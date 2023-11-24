@@ -1,6 +1,6 @@
 ---
 title: Sonic Boom
-description: An easy, intuitive explanation of how sonic booms occur.
+description: An easy, intuitive explanation of how sonic booms occur with examples.
 date: 2023-1-01
 categories:
     - Miscellaneous
