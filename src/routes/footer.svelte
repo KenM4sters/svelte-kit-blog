@@ -3,13 +3,12 @@
 </script>
 
 <footer>
-    <div class="h-[30vh] flex justify-center gap-10 border-t-2 p-4">
-        <div class="w-[20vw]">
-            <h1> About: </h1>
-            <p> Simplify is about sharing information about our universe, entirely free of cost</p>
+    <div class="h-[30vh] flex flex-col justify-center gap-10 border-t-2 border-slate-50 p-4 text-center ">
+        <div>
+            <h1 class="text-red-600 text-[2rem] "> Simplify </h1>
         </div>
-        <div class="w-[10vw]">
-            <h1>Thanks for visiting!</h1>
+        <div>
+            <p class=" text-sm ">Sharing information about our universe, completely free of cost.</p>
         </div>
     </div>
 </footer>
