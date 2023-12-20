@@ -1,5 +1,5 @@
 ---
-title: Betelgeuse - An Cosmic Ticking Time Bomb
+title: Betelgeuse - A Cosmic Ticking Time Bomb
 description: Betelgeuse is one of the brightest stars that can be seen in the nightsky, and with good reason... It's over 1.3 billion times the size of the sun, and it's ready to go boom any moment now, but what does this mean for life on Earth? Let's find out.
 date: 2023-1-01
 categories:
