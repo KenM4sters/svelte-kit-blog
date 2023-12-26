@@ -2,6 +2,12 @@
     export let data;
 </script>
 
+<section class="flex justify-center items-center h-[30vh]">
+    <div class="flex justify-center items-center">
+        <button class=" bg-slate-200 text-slate-600 hover:bg-red-600 hover:text-white transition-all rounded-lg p-3"><a href="./"> Return To Home </a></button>
+    </div>
+</section>
+
 <svelte:head>
     <title>{data.meta.title}</title>
     <meta property="og:type" content="article" />

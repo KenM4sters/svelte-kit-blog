@@ -17,6 +17,10 @@ async function getPosts() {
         }
     }
 
+    // for(let i = 0; i < posts.length; i++) {
+    //     console.log(i, posts[i].title);
+    // }
+
     posts = posts.sort((first, second) => 
         new Date(second.date).getTime() - new Date(first.date).getTime())
 
