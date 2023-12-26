@@ -21,7 +21,7 @@
                     </div>
                 </section>
                 <section class=" text-gray-900  w-[100%]  items-center">
-                    <div class="w-[100%] flex justify-center items-center flex-col relative top-[25%]">
+                    <div class="w-[100%] flex justify-center items-center flex-col relative ">
                         <div class="flex flex-col justify-center items-center w-[100%] gap-y-4 ">
                             <div class=" bg-slate-200 rounded-xl w-[75%] p-5">
                                 <p class="text-[1.1rem] text-gray-900 ">
@@ -143,9 +143,7 @@
                 <div class="flex justify-around w-[90%] gap-x-[5vw]">
                     <div class="">
                         <div class="bg-black rounded-lg p-4">
-                            <video muted width="300" height="100" controls loop playsinline disablepictureinpicture>
-                                <source src="/game_demo.mp4" type="video/mp4"/>
-                            </video>
+                            <img height="100" width="300" alt="" src="api.png"  />
                         </div>
                     </div>
                     <div class="text-black flex flex-col justify-center gap-y-8 w-[60vw] ">
@@ -181,7 +179,7 @@
                     <div>
                         <div class="bg-black rounded-lg p-4">
                             <video muted width="300" height="100" controls loop playsinline disablepictureinpicture>
-                                <source src="/game_demo.mp4" type="video/mp4"/>
+                                <source src="/enginemkIV_demo.mov" type="video/mp4"/>
                             </video>
                         </div>
                     </div>
