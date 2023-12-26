@@ -125,7 +125,7 @@
                     </div>
                     <div>
                         <div class=" bg-black rounded-lg p-4">
-                            <video muted width="300" height="100" controls loop playsinline disablepictureinpicture>
+                            <video muted width="300" height="100" autoplay loop playsinline disablepictureinpicture>
                                 <source src="/game_demo.mp4" type="video/mp4"/>
                             </video>
                         </div>
@@ -178,7 +178,7 @@
                     </div>
                     <div>
                         <div class="bg-black rounded-lg p-4">
-                            <video muted width="300" height="100" controls loop playsinline disablepictureinpicture>
+                            <video muted width="300" height="100" autoplay loop playsinline disablepictureinpicture>
                                 <source src="/enginemkIV_demo.mov" type="video/mp4"/>
                             </video>
                         </div>
