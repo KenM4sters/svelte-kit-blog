@@ -26,10 +26,10 @@
                             <div class=" bg-slate-200 rounded-xl w-[75%] p-5">
                                 <p class="text-[1.1rem] text-gray-900 ">
                                     <strong>Hi!</strong> 
-                                    My name is <strong>Samuel Brookman</strong>, and I'm an aspiring software devloper   
+                                    My name is <strong>Samuel Brookman</strong>, and I'm an aspiring software developer   
                                     looking to implement my skills into the real world. <br><br>
                                     I have a passion for <strong>low level programming</strong> in <strong class="">C++</strong> and enjoy
-                                    exlporing the fields of computer graphics and <strong class="">machine learning</strong>. 
+                                    exploring the fields of computer graphics and <strong class="">machine learning</strong>. 
                                 </p>
                             </div>
                             <ul class="flex gap-x-8 mt-8 mb-8 relative right-[25%]">
