@@ -8,60 +8,63 @@
     <title>{config.title}</title>
 </svelte:head>
 
-<section class=" text-gray-200 h-[70vh] bg-slate-700 items-center">
-    <div class="w-[100%] flex justify-center items-center flex-col relative top-[25%]">
-        <div class="flex flex-col w-[100%] gap-y-4">
-            <h1 class="text-[6rem] ml-[10vw] font-semibold stroke-black "> Samuel Brookman </h1>
-            <p class="text-[1.1rem] text-gray-100 ml-[10vw]">
-                <strong>Hi!</strong> 
-                My name is Samuel Brookman, and I'm an aspiring software devloper   
-                looking to implement my skills into the real world. <br>
-                I have a passion for <strong>low level programming</strong> in <strong class="">C++</strong> and enjoy
-                exlporing the fields of computer graphics and <strong class="">machine learning</strong>. 
-            </p>
-            <ul class="flex gap-x-8 mt-8 mb-8 ml-[10vw]">
-                <a href="./"><li class=" bg-teal-500 rounded-xl hover:bg-white hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Resume </li></a>
-                <a href="./"><li class=" bg-blue-500 rounded-xl hover:bg-white hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Contact </li></a>
-                <a href="./"><li class=" bg-slate-800 rounded-xl hover:bg-slate-200 hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Github </li></a>
-            </ul>
-        </div>
-    </div>
-</section>
 
-<section class="h-[140vh] bg-stone-50 flex flex-col justify-center items-center gap-y-[20vh]">
+<section class="h-[240vh] w-[100vw] bg-stone-100 flex flex-col items-center gap-y-[20vh] bg-gradient-to-b from-slate-800 to-slate-900 via-cyan-800 ">
+    <section class=" relative top-[5%]">
+        <div></div>
+    </section>
+    <section class=" text-gray-200 h-[70vh] w-[100%]  items-center">
+        <div class="w-[100%] flex justify-center items-center flex-col relative top-[25%]">
+            <div class="flex flex-col w-[100%] gap-y-4">
+                <h1 class="text-[6rem] ml-[10vw] font-semibold stroke-black "> Samuel Brookman </h1>
+                <p class="text-[1.1rem] text-gray-100 ml-[10vw]">
+                    <strong>Hi!</strong> 
+                    My name is Samuel Brookman, and I'm an aspiring software devloper   
+                    looking to implement my skills into the real world. <br>
+                    I have a passion for <strong>low level programming</strong> in <strong class="">C++</strong> and enjoy
+                    exlporing the fields of computer graphics and <strong class="">machine learning</strong>. 
+                </p>
+                <ul class="flex gap-x-8 mt-8 mb-8 ml-[10vw]">
+                    <a href="./"><li class=" bg-teal-500 rounded-xl hover:bg-white hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Resume </li></a>
+                    <a href="./"><li class=" bg-blue-500 rounded-xl hover:bg-white hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Contact </li></a>
+                    <a href="./"><li class=" bg-slate-800 rounded-xl hover:bg-slate-200 hover:text-black text-white w-[5vw] h-10 flex justify-center items-center transition"> Github </li></a>
+                </ul>
+            </div>
+        </div>
+    </section>
     <div class="flex flex-col justify-center relative gap-y-[10vh] ">
         <div class="flex justify-center ">
-            <h1 class="font-semibold text-[3rem]">Projects</h1>
+            <h1 class="font-semibold text-[3rem] text-gray-900">Projects</h1>
         </div>
         <div>
             <ul class="flex justify-center items-center gap-x-[5vw] w-[100%] ">
                 <a href="./">
-                    <li class="flex flex-col justify-center text-black items-center gap-y-4 transition-all group w-[15vw] h-[15vh] border-r border-l ">
+                    <li class="flex flex-col justify-center text-gray-200 items-center gap-y-4 transition-all group w-[15vw] h-[25vh] bg-slate-800 border rounded-xl border-cyan-300 shadow-cyan-400 shadow-lg   ">
                         <h1 class="text-[1.3rem] group-hover:text-gray-600 ">Game Engine MK1</h1>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="white" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M14.25 6.087c0-.355.186-.676.401-.959.221-.29.349-.634.349-1.003 0-1.036-1.007-1.875-2.25-1.875s-2.25.84-2.25 1.875c0 .369.128.713.349 1.003.215.283.401.604.401.959v0a.64.64 0 0 1-.657.643 48.39 48.39 0 0 1-4.163-.3c.186 1.613.293 3.25.315 4.907a.656.656 0 0 1-.658.663v0c-.355 0-.676-.186-.959-.401a1.647 1.647 0 0 0-1.003-.349c-1.036 0-1.875 1.007-1.875 2.25s.84 2.25 1.875 2.25c.369 0 .713-.128 1.003-.349.283-.215.604-.401.959-.401v0c.31 0 .555.26.532.57a48.039 48.039 0 0 1-.642 5.056c1.518.19 3.058.309 4.616.354a.64.64 0 0 0 .657-.643v0c0-.355-.186-.676-.401-.959a1.647 1.647 0 0 1-.349-1.003c0-1.035 1.008-1.875 2.25-1.875 1.243 0 2.25.84 2.25 1.875 0 .369-.128.713-.349 1.003-.215.283-.4.604-.4.959v0c0 .333.277.599.61.58a48.1 48.1 0 0 0 5.427-.63 48.05 48.05 0 0 0 .582-4.717.532.532 0 0 0-.533-.57v0c-.355 0-.676.186-.959.401-.29.221-.634.349-1.003.349-1.035 0-1.875-1.007-1.875-2.25s.84-2.25 1.875-2.25c.37 0 .713.128 1.003.349.283.215.604.401.96.401v0a.656.656 0 0 0 .658-.663 48.422 48.422 0 0 0-.37-5.36c-1.886.342-3.81.574-5.766.689a.578.578 0 0 1-.61-.58v0Z" />
                         </svg>  
                     </li>  
                 </a>
                 <a href="./">
-                    <li class="flex flex-col justify-center text-black transition-all items-center gap-y-4 group w-[15vw] h-[15vh] border-r border-l ">
+                    <li class="flex flex-col justify-center text-gray-200 transition-all items-center gap-y-4 group w-[15vw] h-[25vh] bg-slate-800 border rounded-xl border-cyan-300 shadow-cyan-400 shadow-lg   ">
                         <h1 class=" text-[1.3rem] group-hover:text-gray-600">API</h1>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="white" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
                           </svg>  
                     </li>  
                 </a>
                 <a href="./">
-                    <li class="flex flex-col justify-center text-black transition-all items-center gap-y-4 group w-[15vw] h-[15vh] border-r border-l ">
+                    <li class="flex flex-col justify-center text-gray-200 transition-all items-center gap-y-4 group w-[15vw] h-[25vh] bg-slate-800 border rounded-xl border-cyan-300 shadow-cyan-400 shadow-lg   ">
                         <h1 class=" text-[1.3rem] group-hover:text-gray-600 group">Blog</h1>
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="white" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 0 1-2.25 2.25M16.5 7.5V18a2.25 2.25 0 0 0 2.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 0 0 2.25 2.25h13.5M6 7.5h3v3H6v-3Z" />
                           </svg>
                            
                     </li>  
                 </a>
                 <a href="./">
-                    <li class="flex flex-col justify-center text-black  transition-all items-center gap-y-4 group w-[15vw] h-[15vh] border-r border-l ">
+                    <li class="flex flex-col justify-center text-gray-200  transition-all items-center gap-y-4 group w-[15vw] h-[25vh] bg-slate-800 border rounded-xl border-cyan-300 shadow-cyan-400 shadow-lg   ">
                         <h1 class=" text-[1.3rem] group-hover:text-gray-600 group">Game Engine MK2</h1>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.0" stroke="currentColor" class="w-[10vw] h-[10vh] group group-hover:rotate-[360deg] transition-all duration-1000">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17 17.25 21A2.652 2.652 0 0 0 21 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 1 1-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 0 0 4.486-6.336l-3.276 3.277a3.004 3.004 0 0 1-2.25-2.25l3.276-3.276a4.5 4.5 0 0 0-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437 1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008Z" />
@@ -73,7 +76,7 @@
     </div>
     <div class="flex flex-col gap-y-8 justify-center w-[30vw]">
         <div class="flex justify-center">
-            <h1 class="font-semibold text-[3rem]">Skills</h1>
+            <h1 class="font-semibold text-[3rem] text-gray-900">Skills</h1>
         </div>
         <div>
             <ul class="flex justify-center flex-wrap gap-x-8 gap-y-8 ">
@@ -94,7 +97,7 @@
     </div>
 </section>
 
-<section class=" bg-blue-900 h-[80vh] items-center">
+<section class=" bg-cyan-800 h-[80vh] items-center">
     <div class="flex justify-center h-[100%] items-center ">
         <div class="flex justify-center gap-x-[5vw]  w-[75vw]">
             <div class="text-white w-[60vw] flex flex-col gap-y-8 justify-center">
@@ -120,7 +123,7 @@
     <div></div>
 </section>
 
-<section class=" bg-indigo-600  h-[80vh] items-center">
+<section class=" bg-blue-800  h-[80vh] items-center">
     <div class="flex justify-center h-[100%] items-center ">
         <div class="flex justify-center gap-x-[5vw] w-[75vw]">
             <div class="">
@@ -171,7 +174,7 @@
     </div>
 </section>
 
-<section class=" text-gray-200 bg-gradient-to-b from-black to-indigo-500">
+<section class=" text-gray-800 bg-gradient-to-b from-gray-200 to-white">
     <div class="flex justify-center items-center">
         <div class="flex justify-center items-center flex-col w-[75vw]">
             <div class=" flex flex-col justify-center text-center items-center">
