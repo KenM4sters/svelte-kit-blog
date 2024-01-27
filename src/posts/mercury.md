@@ -1,6 +1,6 @@
 ---
 title: Mercury 
-description: Mercury is the smallest planet in the solar system, comparable in size to someo of the solar system's largest moons, such as Ganyemede of Jupiter. 
+description: Mercury is the smallest planet in the Solar System, comparable in size to someo of the solar system's largest moons, such as Ganyemede of Jupiter. 
 date: 2023-1-01
 categories:
     - Miscellaneous

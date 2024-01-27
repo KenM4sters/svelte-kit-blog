@@ -3,9 +3,10 @@
     import {darkmode} from "$lib/stores/darkmode";
     import Footer from "./footer.svelte";
     import "../app.css";
+	import App from "./App.svelte";
 </script>
 <div>
-
+      
     <main> 
         <slot />
     </main>

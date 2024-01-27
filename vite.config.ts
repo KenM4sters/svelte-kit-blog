@@ -5,5 +5,9 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	server: {
 		port: 3000
-	}
-});
+	},
+	ssr: {
+		  noExternal: ['three']
+		}
+	  }
+);
